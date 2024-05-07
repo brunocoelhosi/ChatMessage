@@ -1,1 +1,1 @@
-Multi Chat using Python and Tkinter
+Multi Chat using Sockets and Tkinter
