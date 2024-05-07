@@ -1,3 +1,1 @@
-Multi Chat
--Python
--Tkinter
+Multi Chat using Python and Tkinter
